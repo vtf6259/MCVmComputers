@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/y2k04/MCVmComputers/master/src/main/resources/assets/mcvmcomputers/icon.png" height="320"></p>
-
+lol why bug cpu core max lol
 <a href="https://discord.gg/gNgaxZa4yX">Join the MCVmComputers Discord Server!</a>
 
 <details>
